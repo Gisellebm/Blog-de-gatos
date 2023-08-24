@@ -35,6 +35,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 <br/>
 
+## Deploy
+
+<a href="blog-de-gatos-gamma.vercel.app">Clica aqui para visualizar o projeto"</a>
+
+<br/>
+
 ## Contato: gisellemacedo.dev@gmail.com
 
 <br/>
