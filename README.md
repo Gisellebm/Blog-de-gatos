@@ -37,7 +37,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## Deploy
 
-<a href="(https://blog-de-gatos-gamma.vercel.app/)">Clica aqui para visualizar o projeto"</a>
+<a href="https://blog-de-gatos-gamma.vercel.app/">Clica aqui para visualizar o projeto"</a>
 
 <br/>
 
